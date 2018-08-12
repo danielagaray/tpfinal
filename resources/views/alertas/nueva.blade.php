@@ -84,8 +84,8 @@
             <label>NOMBRE *</label>
             <input type="text" class="form-control" id="nombre" placeholder="Nombre (obligatorio)" name="nombre" maxlength="250" required>
             <input type="hidden" class="form-control" id="institucion_id" name="institucion_id" value="">
-            <input type="hidden" class="form-control" id="lat" name="lng" value="">
-            <input type="hidden" class="form-control" id="lat" name="lng" value="">
+            <input type="hidden" class="form-control" id="lat" name="lat" value="">
+            <input type="hidden" class="form-control" id="lng" name="lng" value="">
           </div>
 
           <div class="form-group">
