@@ -119,7 +119,7 @@
 
 			              	<?php } else { ?>
 
-			              		<a href="#"><?php echo ucwords($alerta->user->name) ?> <?php echo ucword($alerta->user->apellido) ?></a> generó una alerta (#<?php echo $alerta->id ?>)
+			              		<a href="#"><?php echo ucwords($alerta->user->name) ?> <?php echo ucwords($alerta->user->apellido) ?></a> generó una alerta (#<?php echo $alerta->id ?>)
 
 
 			              	<?php } ?>
